@@ -92,13 +92,7 @@
       "config": {}
     }
   ],
-  "gateways": [
-    {
-      "platform": "facebook-messenger",
-      "name": "Facebook Messenger \u2014 OYA.ai",
-      "is_active": true
-    }
-  ],
+  "gateways": [],
   "routines": [],
   "triggers": [],
   "mcp_connections": [],
